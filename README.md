@@ -9,6 +9,10 @@ I have analysed WTO data on annual simple average MFN tariffs on 22 product cate
 - Do tariffs vary widely over time, or do they remain at a steady level?
 - What are the interesting topics for further analysis?
 
+View the data, charts and insights in this marimo notebook [![Open in molab](https://molab.marimo.io/molab-shield.png)](https://molab.marimo.io/notebooks/nb_An75gMaWbM2QGpFfZdtTWZ)
+
 ## Data Files in this Repo
 - CSV data file downloaded from the WTO website
 - Image file of screenshot from WTO website
+
+<img width="1681" height="571" alt="image" src="https://github.com/user-attachments/assets/cc5d3c75-858e-42d7-9fc6-0aefcbf49af4" />
